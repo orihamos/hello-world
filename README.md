@@ -1,2 +1,5 @@
 # hello-world
-Following the steps
+Hi!
+
+Orihamos here, trying to learn enough and get jobs.
+Cheers!
